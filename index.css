@@ -1,0 +1,444 @@
+a>b{
+    font-weight:900px;
+    font-size:20px;
+    
+    }
+    
+    a{
+        font-family:cursive;
+        text-decoration:none;
+        color:black;
+        margin-left:20px;
+        
+       
+     
+        
+    }
+    
+    a:hover{
+        background-color:grey;
+        color:white;
+    }
+    
+    div{
+        display:inline;
+        position:relative;
+        left:800px;
+        
+    }
+    
+    navbar{
+        background-color: rgb(255, 255, 255);
+        position:fixed;
+        left:0px;
+        width:1320px;
+        height:40px;
+        line-height:40px;
+        z-index:30;
+        border:4px solid black;
+        box-shadow:2px 2px 3px black;
+    }
+    
+    /* div{
+        position:absolute;
+    } */
+    
+    #logo{
+        position:absolute;
+        display:inline;
+        top:350px;
+        left:560px;
+        font-size:32px;
+        text-shadow:2px 3px 4px white;
+    }
+    
+    #logocolor{
+        background-color:black;
+        opacity:0.9;
+        color:white;
+    }
+    
+    h1{
+        font-family:cursive;
+    
+    }
+    #fir{
+        opacity:0.7;
+    width:1290px;
+    }
+    
+    #image1{
+        /* display:inline; */
+        position:absolute;
+      left:0px;
+      margin-left:35px;
+    }
+    #image2{
+        /* display:inline; */
+        position:absolute;
+      left:330px;
+      margin-left:40px;
+    }
+    #image3{
+        /* display:inline; */
+        position:absolute;
+        left:660px;
+        margin-left:30px;
+    }
+    #image4{
+        /* display:inline; */
+        position:absolute;
+        left:980px;
+        margin-left:30px;
+    }
+    #image5{
+        /* display:inline; */
+        position:absolute;
+       top:1040px;
+       left:35px;
+    }
+    #image6{
+        /* display:inline; */
+        position:absolute;
+       top:1040px;
+       left:370px;
+    }
+    #image7{
+        /* display:inline; */
+        position:absolute;
+       top:1040px;
+       left:690px;
+    }
+    
+    #image8{
+        /* display:inline; */
+        position:absolute;
+       top:1040px;
+       left:1010px;
+    }
+    #house1{
+        position:absolute;
+        left:35px;
+        /* font-weight:bolder; */
+        color:white;
+        font-size:20px;
+        font-family:cursive;
+        background-color: black;
+    }
+    #house2{
+        position:absolute;
+        left:370px;
+    
+        color:white;
+        font-size:20px;
+        font-family:cursive;
+        background-color: black;
+    }
+    #house3{
+        position:absolute;
+        left:690px;
+    
+        color:white;
+        font-size:20px;
+        font-family:cursive;
+        background-color: black;
+    }
+    #house4{
+        position:absolute;
+        left:1010px;
+    
+        color:white;
+        font-size:20px;
+        font-family:cursive;
+        background-color: black;
+    }
+    #house5{
+        position:absolute;
+        top:1040px;
+        left:35px;
+        color:white;
+        font-size:20px;
+        font-family:cursive;
+        background-color: black;
+    }
+    
+    #house6{
+        position:absolute;
+        top:1040px;
+        left:370px;
+        color:white;
+        font-size:20px;
+        font-family:cursive;
+        background-color: black;
+    }
+    #house7{
+        position:absolute;
+        top:1040px;
+        left:690px;
+        color:white;
+        font-size:20px;
+        font-family:cursive;
+        background-color: black;
+    }
+    
+    #house8{
+        position:absolute;
+        top:1040px;
+        left:1010px;
+        color:white;
+        font-size:20px;
+        font-family:cursive;
+        background-color: black;
+    }
+    #about{
+        font-family:cursive;
+        font-size:32px;
+        position:absolute;
+        top:1270px;
+        left:10px;
+    }
+    #sec{
+        width:1320px;
+        opacity:0.7;
+    }
+    
+    p{
+        position:relative;
+        top:520px;
+        text-align:justify;
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        text-align-last:center;
+    }
+    #author1{
+        position:relative;
+        top:530px;
+        left:30px;
+    }
+    
+    #author2{
+        position:relative;
+        top:530px;
+        left:50px;
+    }
+    
+    #author3{
+        position:relative;
+        top:530px;
+        left:70px;
+    }
+    
+    #author4{
+        position:relative;
+        top:530px;
+        left:90px;
+    }
+    
+    #john{
+        position:absolute;
+       
+        top:1640px;
+        left:120px;
+        font-size:24px;
+        font-family:cursive;
+    }
+    
+    #doe{
+        position:absolute;
+        
+    
+        font-size:24px;
+        font-family:cursive;
+        top:1640px;
+        left:460px;
+    }
+    
+    #mike{
+        position:absolute;
+        
+    
+        font-size:24px;
+        font-family:cursive;
+        top:1640px;
+        left:780px;
+        
+    }
+    
+    #dan{
+        position:absolute;
+        
+    
+        font-size:24px;
+        font-family:cursive;
+        top:1640px;
+        left:1120px;
+    }
+    #role1{
+        position:absolute;
+        
+    
+        font-size:18px;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        top:1675px;
+        left:110px;
+        opacity:0.4;
+        text-shadow:2px 3px 3px red;
+    }
+    #role2{
+        position:absolute;
+        
+    
+        font-size:18px;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        top:1675px;
+        left:460px;
+        opacity:0.4;
+        text-shadow:2px 3px 3px red;
+    }
+    
+    #role3{
+        position:absolute;
+    
+        font-size:18px;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        top:1675px;
+        left:790px;
+        opacity:0.4;
+        text-shadow:2px 3px 3px red;
+    }
+    
+    #role4{
+        position:absolute;
+        
+        font-size:18px;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        top:1675px;
+        left:1120px;
+        opacity:0.4;
+        text-shadow:2px 3px 3px red;
+    }
+    
+    #para1{
+        position:absolute;
+        top:1170px;
+        left:60px;
+        width:250px;
+        word-spacing:1px;
+        line-height:17px;
+    }
+    #para2{
+        position:absolute;
+        top:1170px;
+        left:390px;
+        width:250px;
+        word-spacing:1px;
+        line-height:17px;
+    }
+    
+    #para3{
+        position:absolute;
+        top:1170px;
+        left:720px;
+        width:250px;
+        word-spacing:1px;
+        line-height:17px;
+    }
+    
+    #para4{
+        position:absolute;
+        top:1170px;
+        left:1050px;
+        width:250px;
+        word-spacing:1px;
+        line-height:17px;
+    }
+    
+    #contact1{
+        position:absolute;
+        top:1870px;
+        left:90px;
+        background-color: gray;
+        width:180px;
+        height:30px;
+        text-align:center;
+        line-height:30px;
+        font-weight:bold;
+        font-size:20px;
+    }
+    
+    #contact1:hover{
+        background-color: lightsalmon;
+    }
+    
+    #contact2{
+        position:absolute;
+        top:1870px;
+        left:425px;
+        background-color: gray;
+        width:180px;
+        height:30px;
+        text-align:center;
+        line-height:30px;
+        font-weight:bold;
+        font-size:20px;
+    }
+    
+    #contact2:hover{
+        background-color: lightsalmon;
+    }
+    
+    #contact3{
+        position:absolute;
+        top:1870px;
+        left:760px;
+        background-color: gray;
+        width:180px;
+        height:30px;
+        text-align:center;
+        line-height:30px;
+        font-weight:bold;
+        font-size:20px;
+    }
+    
+    #contact3:hover{
+        background-color: lightsalmon;
+    }
+    
+    #contact4{
+        position:absolute;
+        top:1870px;
+        left:1090px;
+        background-color: gray;
+        width:180px;
+        height:30px;
+        text-align:center;
+        line-height:30px;
+        font-weight:bold;
+        font-size:20px;
+    }
+    
+    #contact4:hover{
+        background-color: lightsalmon;
+    }
+    
+    iframe{
+        position:absolute;
+        top:1930px;
+        height:200px;
+        width:1200px;
+        left:80px;
+    }
+    
+    #footer{
+        background-color:black;
+        width:1341px;
+        height:120px;
+        position:absolute;
+        top:2130px;
+        left:0px;
+        color:white;
+        text-align:center;
+        line-height:130px;
+        border-radius:10px;
+        margin-top:10px;
+    }
+    
